@@ -1,0 +1,15 @@
+{
+  "name": "nyaancast-official-djs-bot",
+  "version": "0.0.1",
+  "description": "This is the NyaanCast Discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NyaanCast",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  }
+}
