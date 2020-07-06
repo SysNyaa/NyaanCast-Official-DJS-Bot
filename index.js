@@ -36,7 +36,7 @@ client.on("ready", async () =>{
 
     console.log(`"${client.user.username}" is ${client.user.presence.status}!`);
 
-    client.user.setActivity("null");
+    client.user.setActivity(process.env.DEFAULTSTATUS);
 });
 
 client.on("message", async msg =>{
