@@ -1,2 +1,4 @@
-# NyaanCast-Official-DJS-Bot
-This is the NyaanCast Discord bot.
+# djs-bot
+SysNyaa's Discord Bot
+
+THIS PROJECT IS IN NODE.JS DO NOT USE ANY OTHER LANGUAGE YOU FUCKWITS!
