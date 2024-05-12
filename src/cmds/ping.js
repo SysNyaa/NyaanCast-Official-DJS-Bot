@@ -5,7 +5,7 @@ module.exports = {
         name: 'ping',
         description: 'Check if the bot is responsive. There\'s a chance the bot may miss the serve!',
         usage: '',
-        category: 'Utility'
+        category: 'Fun'
     },
     run(c, msg, args) {
         // Define the chance for the bot to miss the serve (in percentage, e.g., 20 for 20% chance)
