@@ -6,7 +6,7 @@ module.exports = {
     help: {
         name: 'activity',
         description: 'Set the bot\'s activity.',
-        usage: '-a <activity> -t <type>',
+        usage: '!activity -a <activity> -t <type>',
         category: 'Utility'
     },
     async run(c, msg, args) {

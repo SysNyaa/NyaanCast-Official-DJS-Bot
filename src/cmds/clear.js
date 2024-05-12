@@ -4,7 +4,7 @@ module.exports = {
     help: {
         name: 'clear',
         description: 'Clear messages from the channel.',
-        usage: '<number of messages>',
+        usage: '!clear <number of messages>',
         category: 'Moderation'
     },
     async run(c, msg, args) {

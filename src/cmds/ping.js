@@ -4,7 +4,7 @@ module.exports = {
     help: {
         name: 'ping',
         description: 'Check if the bot is responsive. There\'s a chance the bot may miss the serve!',
-        usage: '',
+        usage: '!ping',
         category: 'Fun'
     },
     run(c, msg, args) {

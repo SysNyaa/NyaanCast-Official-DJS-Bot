@@ -6,7 +6,7 @@ module.exports = {
     help: {
         name: 'userinfo',
         description: 'Display information about the user.',
-        usage: '',
+        usage: '!userinfo',
         category: 'Utility'
     },
     run(c, msg, args) {

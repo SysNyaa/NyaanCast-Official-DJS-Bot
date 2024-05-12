@@ -6,7 +6,7 @@ module.exports = {
     help: {
         name: 'poll',
         description: 'Create a poll for users to vote on.',
-        usage: '-q <question> -c <color>',
+        usage: '!poll -q <question> -c <color>',
         category: 'Utility'
     },
     run(c, msg, args) {

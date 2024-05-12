@@ -16,7 +16,7 @@ module.exports = {
     help: {
         name: 'geddit',
         description: 'Fetches a random post from a specified subreddit. Can display memes, images, or videos.',
-        usage: '<subreddit>',
+        usage: '!geddit <subreddit>',
         category: 'Fun'
     },
     async run(c, msg, args) {

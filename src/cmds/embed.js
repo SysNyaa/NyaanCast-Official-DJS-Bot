@@ -6,7 +6,7 @@ module.exports = {
     help: {
         name: 'embed',
         description: 'Create an embedded message.',
-        usage: '-t <title> -d <description> -c <color> -f <footer> -a [true|false]',
+        usage: '!embed -t <title> -d <description> -c <color> -f <footer> -a [true|false]',
         category: 'Utility'
     },
     async run(c, msg, args) {
